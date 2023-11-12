@@ -4,6 +4,8 @@
 
 ## Description
 
+This application is simple calendar that allow the user to save events for each starting from 9am to 5pm on working day.
+
 ## Screenshot
 
 ## Installation
