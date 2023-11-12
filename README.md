@@ -10,6 +10,14 @@ This application is simple calendar that allow the user with a busy schedule to 
 
 ![alt the webpage screepage](./assets/images/Screenshot.png)
 
+## Installation
+
+The project was uploaded to [GitHub](https://github.com/)
+
+The repository created for the project is : https://github.com/BlessingBab/BlessingBabWorkDaySchedule
+
+Deployment: https://blessingbab.github.io/BlessingBabWorkDaySchedule/
+
 ## License
 
 MIT
