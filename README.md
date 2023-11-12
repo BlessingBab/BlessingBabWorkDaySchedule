@@ -4,7 +4,7 @@
 
 ## Description
 
-This application is simple calendar that allow the user to save events for each starting from 9am to 5pm on working day.
+This application is simple calendar that allow the user with a busy schedule to use as planner. User can use this applocation to effectively manage important daily events. User can save daily events starting from 9am to 5pm of working day.
 
 ## Screenshot
 
