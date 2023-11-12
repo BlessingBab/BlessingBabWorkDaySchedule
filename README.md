@@ -8,13 +8,7 @@ This application is simple calendar that allow the user with a busy schedule to 
 
 ## Screenshot
 
-## Installation
-
-## Process
-
-```
-
-```
+![alt the webpage screepage](./assets/images/Screenshot.png)
 
 ## License
 
